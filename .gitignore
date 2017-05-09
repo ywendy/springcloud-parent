@@ -1,4 +1,21 @@
-*.iml
-.idea
-target/
 
+
+.classpath
+.settings
+.project
+.build
+.idea
+
+*.class
+*.DS_Store
+*.lock
+*.swp
+*.eml
+*.iml
+.metadata
+
+target
+classes
+#bin
+*.log
+velocity.log*
